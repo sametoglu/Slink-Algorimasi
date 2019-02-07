@@ -1,0 +1,9 @@
+c:\users\samet\documents\visual studio 2013\Projects\veri_maden_33\veri_maden_33\bin\Debug\veri_maden_33.exe.config
+c:\users\samet\documents\visual studio 2013\Projects\veri_maden_33\veri_maden_33\bin\Debug\veri_maden_33.exe
+c:\users\samet\documents\visual studio 2013\Projects\veri_maden_33\veri_maden_33\bin\Debug\veri_maden_33.pdb
+c:\users\samet\documents\visual studio 2013\Projects\veri_maden_33\veri_maden_33\obj\Debug\veri_maden_33.csprojResolveAssemblyReference.cache
+c:\users\samet\documents\visual studio 2013\Projects\veri_maden_33\veri_maden_33\obj\Debug\veri_maden_33.Form1.resources
+c:\users\samet\documents\visual studio 2013\Projects\veri_maden_33\veri_maden_33\obj\Debug\veri_maden_33.Properties.Resources.resources
+c:\users\samet\documents\visual studio 2013\Projects\veri_maden_33\veri_maden_33\obj\Debug\veri_maden_33.csproj.GenerateResource.Cache
+c:\users\samet\documents\visual studio 2013\Projects\veri_maden_33\veri_maden_33\obj\Debug\veri_maden_33.exe
+c:\users\samet\documents\visual studio 2013\Projects\veri_maden_33\veri_maden_33\obj\Debug\veri_maden_33.pdb
